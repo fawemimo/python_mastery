@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+fawemimopdf/__init__.py
+fawemimopdf/pdf2text.py
+fawemimopdf.egg-info/PKG-INFO
+fawemimopdf.egg-info/SOURCES.txt
+fawemimopdf.egg-info/dependency_links.txt
+fawemimopdf.egg-info/top_level.txt
